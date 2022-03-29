@@ -1,2 +1,2 @@
 @Library('mylibrary') _
-welcomeJob 'https://github.com/etchconsultingllc/etechapps.git'
+etechApp 'https://github.com/etchconsultingllc/etechapps.git'
