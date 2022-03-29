@@ -1,2 +1,2 @@
 @Library('mylibrary') _
-exercise 'https://github.com/rnfor-pro/etechapps.git'
+exercise 'https://github.com/etchconsultingllc/etechapps.git'
